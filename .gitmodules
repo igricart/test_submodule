@@ -1,0 +1,6 @@
+[submodule "build"]
+	path = build
+	url = ./build/
+[submodule "test_submodule_sub"]
+	path = test_submodule_sub
+	url = git@github.com:igricart/test_submodule_sub.git
